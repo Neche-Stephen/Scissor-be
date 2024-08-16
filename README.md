@@ -1,2 +1,2 @@
-# Slicr URL Shortener and QR Code Generator
-repository Slicr URL Shortener and QR Code Generator
+# Scissor URL Shortener and QR Code Generator
+repository Scissor URL Shortener and QR Code Generator
